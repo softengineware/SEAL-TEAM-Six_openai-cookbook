@@ -1,3 +1,12 @@
+# SEAL TEAM Six - Elite Code Operations
+## ST6_OpenAI_Cookbook
+
+**🔱 MISSION BRIEFING: Elite transformation of OpenAI Cookbook**
+
+**Forked and Enhanced by:** softengineware (2025)  
+**Original Repository:** [OpenAI Cookbook](https://github.com/openai/openai-cookbook)  
+**Upstream Tracking:** Active
+
 <a href="https://cookbook.openai.com" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/images/openai-cookbook-white.png" style="max-width: 100%; width: 400px; margin-bottom: 20px">
